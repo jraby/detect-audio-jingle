@@ -20,7 +20,6 @@ and it was inspired by [this stackoverflow answer](https://stackoverflow.com/a/5
 virtualenv env
 . env/bin/activate
 pip install -r requirements.txt
-
 ```
 
 # Running
